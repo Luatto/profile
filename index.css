@@ -8,6 +8,7 @@
   width: 20%;
   height: 100%;
   float: left;
+  position: fixed;
 }
 .introduction h1{
   margin-left: 20px;
@@ -29,6 +30,7 @@
 }
 .content{
   background-color: #0f0f0f;
+  margin-left:40%;
   margin-right:20%;
   width: 40%;
   float: left;
