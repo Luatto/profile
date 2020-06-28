@@ -56,6 +56,18 @@
   font-family: arial;
   color: white;
 }
+.content table{
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align:left;
+  margin-top: 10px;
+  font-size: 14px;
+  font-family: arial;
+  color: white;
+}
+.content table:hover{
+  font-size: 15px;
+}
 .content p:hover{
   font-weight: bold;
 }
