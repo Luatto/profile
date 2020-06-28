@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title> Luat's Profile</title>
+<title> My Profile</title>
 <link rel="stylesheet" type="text/css" href="index.css"/>
 </head>
 <body>
@@ -50,12 +50,20 @@ And I have 1 year of coding experience.
 <h1>
 SKILL
 </h1>
-<p>
-Make a table here # column 1<br>
-Row 1             # Row 1<br>
-Row 2             # Row 2<br>
-Row 3             # Row 3
-</p>
+<table style="width=100%">
+<tr>
+<th>English</th>
+<th>6.5 IELTS</th>
+</tr>
+<tr>
+<th>Excel</th>
+<th>Microsoft Specialist Cetificate</th>
+</tr>
+<tr>
+<th>Word</th>
+<th>Microsoft Specialist Cetificate</</th>
+</tr>
+</table>
 <h1>
 ACHIEVEMENT
 </h1>
