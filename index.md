@@ -3,16 +3,17 @@
 <head>
 <title> My Profile</title>
 <link rel="stylesheet" type="text/css" href="index.css"/>
+<link rel="icon" href="https://www.clipartmax.com/png/middle/171-1717870_stockvader-predicted-cron-for-may-user-profile-icon-png.png" type="image/icon type">
 </head>
 <body>
 <div class="introduction">
 <img src="https://www.pngitem.com/pimgs/m/537-5372558_flat-man-icon-png-transparent-png.png" width=100%> 
 <h1>TO VU LUAT </h1>
 <p>
-D.O.B: 16th November 1996
+<b>D.O.B:</b> 16th November 1996
 </p>
 <p>
-Address: no 114, 1194 alley, Lang road, Dong Da District, Hanoi.
+<b>Address:</b> no 114, 1194 alley, Lang road, Dong Da District, Hanoi.
 </p>
 <p style="font-weight: bold;">Phone:</p>
 <p>+84 945 802 861</p>
