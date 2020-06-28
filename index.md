@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title> My Profile</title>
+<title> Luat's Profile</title>
 <link rel="stylesheet" type="text/css" href="index.css"/>
 </head>
 <body>
