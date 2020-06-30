@@ -3,17 +3,17 @@
 <head>
 <title> My Profile</title>
 <link rel="stylesheet" type="text/css" href="index.css"/>
-<link rel="icon" href="https://www.clipartmax.com/png/middle/171-1717870_stockvader-predicted-cron-for-may-user-profile-icon-png.png" type="image/icon type">
+<link rel="icon" href="icon.png" type="image/icon type">
 </head>
 <body>
 <div class="introduction">
-<img src="https://www.pngitem.com/pimgs/m/537-5372558_flat-man-icon-png-transparent-png.png" width=100%> 
+<img src="avata.png" width=100%> 
 <h1>TO VU LUAT </h1>
 <p>
-<b>D.O.B:</b> 16th November 1996
+<b>D.O.B:</b> 16th Nov 1996
 </p>
 <p>
-<b>Address:</b> no 114, 1194 alley, Lang road, Dong Da District, Hanoi.
+<b>Address:</b>1194/114,	 Lang road, Dong Da District, Hanoi, Vietnam.
 </p>
 <p style="font-weight: bold;">Phone:</p>
 <p>+84 945 802 861</p>
@@ -22,12 +22,20 @@
 <p style="font-weight: bold;">Website:</p>
 <p>tovuluat.com</p>
 <p><img src="https://i.dlpng.com/static/png/4137413-filefacebook-icon-blackpng-wikimedia-commons-april-png-black-and-white-512_464_preview.webp" width=10%></p>
-<p>facebook.com/luatto</p>
+<p> <a href="https://www.facebook.com/to.luat.7">facebook.com/to.luat.7</a></p>
 <p><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/43-twitter-512.png" width=10%></p>
 <p>twitter.com/luatto</p>
 <p><img src="https://pluspng.com/img-png/linkedin-icon-png--1600.png" width=10%></p>
-<p>linkedin.com/luatto</p>
+<p><a href="https://www.linkedin.com/in/t%C3%B4-lu%C3%A2%CC%A3t-964179132/">linkedin.com</a></p>
 </div>
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="education.html">Education</a></li>
+  <li><a href="experience.html">Experience</a></li>
+  <li><a href="skill.html">Skill</a></li>
+  <li><a href="achievement.html">Achievement</a></li>
+  <li><a href="contact.html">Contact</a></li>
+</ul>
 <div class="content">
 <h1>ABOUT ME</h1>
 <p>
@@ -54,63 +62,46 @@ SKILL
 <table style="width=100%">
 <tr>
 <th>English</th>
-<th>6.5 IELTS</th>
+<th>
+<div class="container">
+  <div class="bar english" data-skill="70%"></div>
+  </div>
+</th>
 </tr>
 <tr>
 <th>Excel</th>
-<th>Microsoft Specialist Cetificate</th>
+<th>
+<div class="container">
+  <div class="bar excel" data-skill="90%"></div>
+  </div>
+</th>
 </tr>
 <tr>
 <th>Word</th>
-<th>Microsoft Specialist Cetificate</</th>
+<th>
+  <div class="container">
+    <div class="bar word" data-skill="90%"></div>
+  </div>
+</div>
+</th>
 </tr>
 </table>
 <h1>
 ACHIEVEMENT
 </h1>
 <p>
-Make a table here # column 1<br>
-Row 1             # Row 1<br>
-Row 2             # Row 2<br>
-Row 3             # Row 3
+Clustered Map with Goole Map API, Leaflet, Mapbox API
 </p>
 <p>
-Make a table here # column 1<br>
-Row 1             # Row 1<br>
-Row 2             # Row 2<br>
-Row 3             # Row 3
+Google Sheet with Appscripts
 </p>
 <p>
-Make a table here # column 1<br>
-Row 1             # Row 1<br>
-Row 2             # Row 2<br>
-Row 3             # Row 3
+Web application
 </p>
 <p>
-Make a table here # column 1<br>
-Row 1             # Row 1<br>
-Row 2             # Row 2<br>
-Row 3             # Row 3
+My Profile
 </p>
-<p>
-Make a table here # column 1<br>
-Row 1             # Row 1<br>
-Row 2             # Row 2<br>
-Row 3             # Row 3
-</p>
-<p>
-Make a table here # column 1<br>
-Row 1             # Row 1<br>
-Row 2             # Row 2<br>
-Row 3             # Row 3
-</p>
-<p>
-Make a table here # column 1<br>
-Row 1             # Row 1<br>
-Row 2             # Row 2<br>
-Row 3             # Row 3
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-</p>
+<br>
 </div>
 </body>
 </html>
