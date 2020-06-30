@@ -2,10 +2,15 @@
   margin: 0px;
   padding: 0p;
 }
+a{
+	text-decoration:none;
+	color:black;
+}
 .introduction{
   background-color: #f7f7f7;
+  Margin-top:3%;
   Margin-left:20%;
-  width: 20%;
+  width: 15%;
   height: 100%;
   float: left;
   position: fixed;
@@ -28,9 +33,37 @@
   font-family: arial;
   text-align: justify;
 }
+ul {
+  list-style-type: none;
+  width:100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  text-align:center;
+  position:fixed;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
 .content{
   background-color: #0f0f0f;
-  margin-left:40%;
+  Margin-top:3%;
+  margin-left:35%;
   margin-right:20%;
   width: 40%;
   float: left;
@@ -63,7 +96,7 @@
   margin-right: 20px;
   text-align:left;
   margin-top: 10px;
-  font-size: 14px;
+  font-size: 13px;
   font-family: arial;
   color: white;
 }
@@ -72,4 +105,65 @@
 }
 .content p:hover{
   font-weight: bold;
+}
+.content a{
+	text-decoration:none;
+	color:white;
+}
+/* Skill Chart */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 0px; /* Add top padding */
+  padding-bottom: 0px; /* Add bottom padding */
+  font-size:auto;
+  color: white; /* White text color */
+}
+
+.english {width: 70%;height: 100%; background-color: #808080;}
+.english:before{
+	
+}
+.excel {width: 90%; height: 100%; background-color: #808080;}
+.word {width: 90%; height: 100%; background-color: #808080;}
+.php {width: 60%; height: 100%; background-color: #808080;}
+
+
+`.container{
+  width: 300px;
+  background-color: #ddd; /* Grey background */
+  margin: 0 auto;
+}
+@keyframes load{
+  from {
+    width: 0%
+  }
+}
+.bar{
+  width: 300px;
+  background-color: #EEE;
+  padding: 2px;
+  border-radius: 15px;
+  margin-bottom: 5px;
+  font-size: 10px;
+}
+.bar::before{
+  content:  attr(data-skill);
+  background-color: #808080;
+  display: inline-block;
+  padding: 2px 0 2px 5px;
+  border-radius: inherit;
+  animation: load 2s 0s;
+}
+.bar.word::before{
+  width: calc(90% - 10px);
+}
+.bar.excel::before{
+  width: calc(90% - 10px);
+}
+.bar.english::before{
+  width: calc(70% - 10px);
 }
