@@ -60,6 +60,9 @@ li a {
 li a:hover {
   background-color: #111;
 }
+h1 a:hover{
+  color: grey;
+}
 .content{
   background-color: #0f0f0f;
   Margin-top:3%;
