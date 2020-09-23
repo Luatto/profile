@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Industrial Zone</name>
+    <Style id="icon-1899-01579B-normal">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-01579B-highlight">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-01579B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-01579B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-01579B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-01579B-1200-76-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c9b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-01579B-1200-76-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c9b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-01579B-1200-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-01579B-1200-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-01579B-1200-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Phu Ha Industrial Park</name>
+      <description><![CDATA[Address: Hung Vuong Street, Phu Tho Province<br>Sale Price: 50 USD/Sqm<br>Management Fee:: <br>Land Period:: Till 2064<br>Note: ]]></description>
+      <styleUrl>#icon-1899-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>Hung Vuong Street, Phu Tho Province</value>
+        </Data>
+        <Data name="Sale Price">
+          <value>50 USD/Sqm</value>
+        </Data>
+        <Data name="Management Fee:">
+          <value/>
+        </Data>
+        <Data name="Land Period:">
+          <value>Till 2064</value>
+        </Data>
+        <Data name="Note">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          105.247164,21.4239786,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yen Phong</name>
+      <description><![CDATA[<img src="https://doc-0g-2s-mymaps.googleusercontent.com/untrusted/hostedimage/vjmgndfql7vsqphfb25aa3ma0g/6ula30m92702qcfc6214uumdgg/1600870293750/aibPlGuAU7GUzfvTBBjITnE-nZM02orW/15008587668903116674/5AF2TALo9fMyFjEU3N6bzQTosjwM8uHVPStKogRVq2OAZghd-kyMbPW-hfVqFWUvxsabHDUh-yS2pGM1BeFAsMZc2Wlndd1JycNHQ6t3AiOwS-E3adMnplv5qumt6tNJv40ZJ4G7hdb_57zHJVojldYl76XrHzvI3uvSSTwKTroFZojiQvBO6tN-b5k3HJaN6U3QMI_JmefD_THyJJI1TeocbWgPA6J7WNpHZnsBZbtcmd8HrptfKVYbahGNPBLTh2MO4AWgRzHnAbpP2Wg9SraDMjnuT9Me7_g?session=0&fife" height="200" width="auto" /><br><br>Address: Tam Giang, Yen Phong, Bac Ninh Province<br>Sale Price: 79 USD/Sqm<br>Management Fee:: 0.3 USD/Sqm/Year<br>Land Period:: Till 2066<br>Note: ]]></description>
+      <styleUrl>#icon-1899-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>Tam Giang, Yen Phong, Bac Ninh Province</value>
+        </Data>
+        <Data name="Sale Price">
+          <value>79 USD/Sqm</value>
+        </Data>
+        <Data name="Management Fee:">
+          <value>0.3 USD/Sqm/Year</value>
+        </Data>
+        <Data name="Land Period:">
+          <value>Till 2066</value>
+        </Data>
+        <Data name="Note">
+          <value/>
+        </Data>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0g-2s-mymaps.googleusercontent.com/untrusted/hostedimage/vjmgndfql7vsqphfb25aa3ma0g/6ula30m92702qcfc6214uumdgg/1600870293750/aibPlGuAU7GUzfvTBBjITnE-nZM02orW/15008587668903116674/5AF2TALo9fMyFjEU3N6bzQTosjwM8uHVPStKogRVq2OAZghd-kyMbPW-hfVqFWUvxsabHDUh-yS2pGM1BeFAsMZc2Wlndd1JycNHQ6t3AiOwS-E3adMnplv5qumt6tNJv40ZJ4G7hdb_57zHJVojldYl76XrHzvI3uvSSTwKTroFZojiQvBO6tN-b5k3HJaN6U3QMI_JmefD_THyJJI1TeocbWgPA6J7WNpHZnsBZbtcmd8HrptfKVYbahGNPBLTh2MO4AWgRzHnAbpP2Wg9SraDMjnuT9Me7_g?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          105.9581624,21.202957,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TIEN SON</name>
+      <description><![CDATA[<img src="https://doc-04-2s-mymaps.googleusercontent.com/untrusted/hostedimage/vjmgndfql7vsqphfb25aa3ma0g/0f86jpaqteglekna2lht41fj3c/1600870293750/aibPlGuAU7GUzfvTBBjITnE-nZM02orW/15008587668903116674/5AF2TALrcFbHKORm8aX3277MdO2djk_6uGhRMiaQJWgq4nzazRNrOL6mirBWfYTaF3TcEwtvX00AHZC5ZlJG9Dg5H4lEyOznsuRLAyXkB-OcupyN4yTLKpdA1E4V49HjgLzvBeRDU7e6M4Th4FqNtP9cjPD5f3mYPbBWpNh3zPafgk5ZFTgTdsZrxgBQnCzrR_sWk1ytkf0A9ifr5oyoWq0HvhyIRYYvN7KBMgKLE9qHzXHh9AyaEjscNeCDat0ESxXiPCXClpEe4OcyaCISxhP_wCX_4ICqr0Q?session=0&fife" height="200" width="auto" /><br><br>Address: Hoang Son, Tien Du, Bac Ninh<br>Sale Price: FULL SPACE<br>Management Fee:: FULL SPACE<br>Land Period:: FULL SPACE<br>Note: ]]></description>
+      <styleUrl>#icon-1899-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>Hoang Son, Tien Du, Bac Ninh</value>
+        </Data>
+        <Data name="Sale Price">
+          <value>FULL SPACE</value>
+        </Data>
+        <Data name="Management Fee:">
+          <value>FULL SPACE</value>
+        </Data>
+        <Data name="Land Period:">
+          <value>FULL SPACE</value>
+        </Data>
+        <Data name="Note">
+          <value/>
+        </Data>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-04-2s-mymaps.googleusercontent.com/untrusted/hostedimage/vjmgndfql7vsqphfb25aa3ma0g/0f86jpaqteglekna2lht41fj3c/1600870293750/aibPlGuAU7GUzfvTBBjITnE-nZM02orW/15008587668903116674/5AF2TALrcFbHKORm8aX3277MdO2djk_6uGhRMiaQJWgq4nzazRNrOL6mirBWfYTaF3TcEwtvX00AHZC5ZlJG9Dg5H4lEyOznsuRLAyXkB-OcupyN4yTLKpdA1E4V49HjgLzvBeRDU7e6M4Th4FqNtP9cjPD5f3mYPbBWpNh3zPafgk5ZFTgTdsZrxgBQnCzrR_sWk1ytkf0A9ifr5oyoWq0HvhyIRYYvN7KBMgKLE9qHzXHh9AyaEjscNeCDat0ESxXiPCXClpEe4OcyaCISxhP_wCX_4ICqr0Q?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          105.9964291,21.1238449,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Viglacera Thuan Thanh </name>
+      <description><![CDATA[Address: Lac Long Quan, Thanh Khuong, Thuan Thanh, Bac Ninh Province.<br>Sale Price: NA<br>Management Fee:: NA<br>Land Period:: NA<br>Note: ]]></description>
+      <styleUrl>#icon-1899-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>Lac Long Quan, Thanh Khuong, Thuan Thanh, Bac Ninh Province.</value>
+        </Data>
+        <Data name="Sale Price">
+          <value>NA</value>
+        </Data>
+        <Data name="Management Fee:">
+          <value>NA</value>
+        </Data>
+        <Data name="Land Period:">
+          <value>NA</value>
+        </Data>
+        <Data name="Note">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.0958508,21.05661,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YEN MY II</name>
+      <description><![CDATA[<img src="https://doc-10-2s-mymaps.googleusercontent.com/untrusted/hostedimage/vjmgndfql7vsqphfb25aa3ma0g/95snmgh6l23tomkpgdjhv5dl9g/1600870293750/aibPlGuAU7GUzfvTBBjITnE-nZM02orW/15008587668903116674/5AF2TALpFQ9ClzvOWENKu8JE9mMPB0cElld12QssNVhTt9SYthzwVXmk23DRhusUL6n-fROQQhKcTjBzhb5q8B2H2znuKfQqIoyqnkHZBQzCwx33QL_ktaVSPAihVrwD9vBaVVEbWgPz2qrHN7w7YBWubCuHs0Kb8nRpCIeFCO7OG906VpfB3UH884Nowna-Y8wTmnMr1jnwvakRlZzWOkikEdUP8Q7hYFQptXQ_F-Y0Xv1AKQLKdCkCKO5_jGw-ILstj3UHPUshii1AqCl55fFuiQ2OnosLWMg?session=0&fife" height="200" width="auto" /><br><br>Address: 39A National Road, Yen My District, Hung Yen Province.<br>Sale Price: 70 USD/Sqm<br>Management Fee:: 0.5 usd/sqm/year<br>Land Period:: 2069<br>Note: ]]></description>
+      <styleUrl>#icon-1899-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>39A National Road, Yen My District, Hung Yen Province.</value>
+        </Data>
+        <Data name="Sale Price">
+          <value>70 USD/Sqm</value>
+        </Data>
+        <Data name="Management Fee:">
+          <value>0.5 usd/sqm/year</value>
+        </Data>
+        <Data name="Land Period:">
+          <value>2069</value>
+        </Data>
+        <Data name="Note">
+          <value/>
+        </Data>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-2s-mymaps.googleusercontent.com/untrusted/hostedimage/vjmgndfql7vsqphfb25aa3ma0g/95snmgh6l23tomkpgdjhv5dl9g/1600870293750/aibPlGuAU7GUzfvTBBjITnE-nZM02orW/15008587668903116674/5AF2TALpFQ9ClzvOWENKu8JE9mMPB0cElld12QssNVhTt9SYthzwVXmk23DRhusUL6n-fROQQhKcTjBzhb5q8B2H2znuKfQqIoyqnkHZBQzCwx33QL_ktaVSPAihVrwD9vBaVVEbWgPz2qrHN7w7YBWubCuHs0Kb8nRpCIeFCO7OG906VpfB3UH884Nowna-Y8wTmnMr1jnwvakRlZzWOkikEdUP8Q7hYFQptXQ_F-Y0Xv1AKQLKdCkCKO5_jGw-ILstj3UHPUshii1AqCl55fFuiQ2OnosLWMg?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.0420276,20.8771683,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DONG VAN IV</name>
+      <description><![CDATA[<img src="https://doc-00-2s-mymaps.googleusercontent.com/untrusted/hostedimage/vjmgndfql7vsqphfb25aa3ma0g/q2e13ildrkqj1tbr50fhcjimd8/1600870293750/aibPlGuAU7GUzfvTBBjITnE-nZM02orW/15008587668903116674/5AF2TALr2oydrWlsi8tfa0RP-4TGLP54NAEFfwKdKF83H4uKUeK8VvEEl5Bu2N7wyhnpIpbp6ZAxljj_tviOH1p-OpJB9DC9xjZTLABQuTneNZHRN5d8DNXCj91fVAAwg0KAQI4zXQrmn1Sxe2sIL9B_cDVjJrFMhKjsH2F59V32ruRalMQlJPjUNtClVg6GKUJmqWEA3gIxWlJLalXpY32BfA8Ivp5mXFbJunTqA3Ta_TS5BrCPRS1qAPW8l18M269ogQ6eQWajLJigOifTCkTrLicKSk_or2w?session=0&fife" height="200" width="auto" /><br><br>Address: Nhat Tuu ward, Kim Bang District, Ha Nam Province.<br>Sale Price: 59 Usd/sqm (Updated 2019)<br>Management Fee:: <br>Land Period:: 2060<br>Note: ]]></description>
+      <styleUrl>#icon-1899-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>Nhat Tuu ward, Kim Bang District, Ha Nam Province.</value>
+        </Data>
+        <Data name="Sale Price">
+          <value>59 Usd/sqm (Updated 2019)</value>
+        </Data>
+        <Data name="Management Fee:">
+          <value/>
+        </Data>
+        <Data name="Land Period:">
+          <value>2060</value>
+        </Data>
+        <Data name="Note">
+          <value/>
+        </Data>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-00-2s-mymaps.googleusercontent.com/untrusted/hostedimage/vjmgndfql7vsqphfb25aa3ma0g/q2e13ildrkqj1tbr50fhcjimd8/1600870293750/aibPlGuAU7GUzfvTBBjITnE-nZM02orW/15008587668903116674/5AF2TALr2oydrWlsi8tfa0RP-4TGLP54NAEFfwKdKF83H4uKUeK8VvEEl5Bu2N7wyhnpIpbp6ZAxljj_tviOH1p-OpJB9DC9xjZTLABQuTneNZHRN5d8DNXCj91fVAAwg0KAQI4zXQrmn1Sxe2sIL9B_cDVjJrFMhKjsH2F59V32ruRalMQlJPjUNtClVg6GKUJmqWEA3gIxWlJLalXpY32BfA8Ivp5mXFbJunTqA3Ta_TS5BrCPRS1qAPW8l18M269ogQ6eQWajLJigOifTCkTrLicKSk_or2w?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          105.8884674,20.6382025,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tien Hai</name>
+      <description><![CDATA[Address: 39b Tien Hai District, Thai Binh Province.<br>Sale Price: NA<br>Management Fee:: NA<br>Land Period:: NA<br>Note: ]]></description>
+      <styleUrl>#icon-1899-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>39b Tien Hai District, Thai Binh Province.</value>
+        </Data>
+        <Data name="Sale Price">
+          <value>NA</value>
+        </Data>
+        <Data name="Management Fee:">
+          <value>NA</value>
+        </Data>
+        <Data name="Land Period:">
+          <value>NA</value>
+        </Data>
+        <Data name="Note">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.5215813,20.3919471,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DONG MAI</name>
+      <description><![CDATA[Address: Dong Mai, Yen Hung District, Quang Ninh Province.<br>Sale Price: NA<br>Management Fee:: NA<br>Land Period:: NA<br>Note: ]]></description>
+      <styleUrl>#icon-1899-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>Dong Mai, Yen Hung District, Quang Ninh Province.</value>
+        </Data>
+        <Data name="Sale Price">
+          <value>NA</value>
+        </Data>
+        <Data name="Management Fee:">
+          <value>NA</value>
+        </Data>
+        <Data name="Land Period:">
+          <value>NA</value>
+        </Data>
+        <Data name="Note">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          106.8412395,21.0038747,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>BA THIEN II</name>
+      <description><![CDATA[Address: Ba Thien, Binh Xuyen, Vinh Phuc<br>Sale Price: 70-75 USD/Sqm<br>Management Fee:: NA<br>Land Period:: 2059<br>Note: Only have 7.6ha ( can not cut land)]]></description>
+      <styleUrl>#icon-1899-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>Ba Thien, Binh Xuyen, Vinh Phuc</value>
+        </Data>
+        <Data name="Sale Price">
+          <value>70-75 USD/Sqm</value>
+        </Data>
+        <Data name="Management Fee:">
+          <value>NA</value>
+        </Data>
+        <Data name="Land Period:">
+          <value>2059</value>
+        </Data>
+        <Data name="Note">
+          <value>Only have 7.6ha ( can not cut land)</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          105.6746366,21.341747,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PHUC SON</name>
+      <description><![CDATA[Address: Tran Nhan Tong, Ninh So, Ninh Binh<br>Sale Price: 60 Usd/sqm<br>Management Fee:: NA<br>Land Period:: 48 years (from 2019)<br>Note: ]]></description>
+      <styleUrl>#icon-1899-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>Tran Nhan Tong, Ninh So, Ninh Binh</value>
+        </Data>
+        <Data name="Sale Price">
+          <value>60 Usd/sqm</value>
+        </Data>
+        <Data name="Management Fee:">
+          <value>NA</value>
+        </Data>
+        <Data name="Land Period:">
+          <value>48 years (from 2019)</value>
+        </Data>
+        <Data name="Note">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          105.9931631,20.2259941,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CHAU SON</name>
+      <description><![CDATA[<img src="https://doc-0s-2s-mymaps.googleusercontent.com/untrusted/hostedimage/vjmgndfql7vsqphfb25aa3ma0g/di589em9uvba7b2a5dcl6ao1n4/1600870293750/aibPlGuAU7GUzfvTBBjITnE-nZM02orW/15008587668903116674/5AF2TALr31Tnp1HgAsvGh2bmCA5_7bc8SNLNdk-TgH8LzSFNTNnile-G9JvWQ7p9Bq9PAHiJ4X7g-8e415oFIEDRubAm4373ITQJoEedWmM4bcCp_PkvIWbv9h2FmG3h9uNbihk_tjVJ1LGfdemIC_HopmO8-1gdevctOdG1DxG4-_TN0VKpmYHw3rHxeae5TZrUkFp-w-PeHVEc9doBiZu1Z0D01ywPhcbYPfbrwQ_w6a3QxdN6DpQW374aC1lGijbCTA2ANZCCW2aUNt2_XrZ2_OtfRHpEV2A?session=0&fife" height="200" width="auto" /><br><br>Address: Đinh Cong Trang, Chau Son, Phu Ly, Ha Nam<br>Sale Price: 58-65 Usd/sqm<br>Management Fee:: NA<br>Land Period:: 36-58 Years base from price.  (From 2019)<br>Note: ]]></description>
+      <styleUrl>#icon-1899-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>Đinh Cong Trang, Chau Son, Phu Ly, Ha Nam</value>
+        </Data>
+        <Data name="Sale Price">
+          <value>58-65 Usd/sqm</value>
+        </Data>
+        <Data name="Management Fee:">
+          <value>NA</value>
+        </Data>
+        <Data name="Land Period:">
+          <value>36-58 Years base from price.  (From 2019)</value>
+        </Data>
+        <Data name="Note">
+          <value/>
+        </Data>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-0s-2s-mymaps.googleusercontent.com/untrusted/hostedimage/vjmgndfql7vsqphfb25aa3ma0g/di589em9uvba7b2a5dcl6ao1n4/1600870293750/aibPlGuAU7GUzfvTBBjITnE-nZM02orW/15008587668903116674/5AF2TALr31Tnp1HgAsvGh2bmCA5_7bc8SNLNdk-TgH8LzSFNTNnile-G9JvWQ7p9Bq9PAHiJ4X7g-8e415oFIEDRubAm4373ITQJoEedWmM4bcCp_PkvIWbv9h2FmG3h9uNbihk_tjVJ1LGfdemIC_HopmO8-1gdevctOdG1DxG4-_TN0VKpmYHw3rHxeae5TZrUkFp-w-PeHVEc9doBiZu1Z0D01ywPhcbYPfbrwQ_w6a3QxdN6DpQW374aC1lGijbCTA2ANZCCW2aUNt2_XrZ2_OtfRHpEV2A?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          105.9052574,20.5204832,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hanaka</name>
+      <description><![CDATA[<img src="https://doc-10-2s-mymaps.googleusercontent.com/untrusted/hostedimage/vjmgndfql7vsqphfb25aa3ma0g/8mone7po4gobda9at0vn7dcc54/1600870293750/aibPlGuAU7GUzfvTBBjITnE-nZM02orW/15008587668903116674/5AF2TALqGwnkVKpdB3Li9V4H5OGar6IvBUx6TBfbBgL233ZpuCvcFH1iuHywF9T9O24PSQhc51KbN0yIHA1sqgIanFCencye_d4gNqUps9pS_E8-5rw0bVV3K1kMUepI15d2mHnFXXxVCO8OELH2Am_YcCZG2DwJ_1GJPWo8ftT8v57_IuQrB7S0jnUY4QylocFj7UgOnu3E3V6iZRsRrP8J0Q8OckWlBxcoPFcSOn5mQnlGgAJ6oBKTTNI9m_0QhiRCXxl1zoXwEJwsV437DBhz04f_e8zsEEQ?session=0&fife" height="200" width="auto" /><br><br>Address: Nguyen Van Cu Road, Dong Nguyen, Tu Son District, Bac ninh Province.<br>Sale Price: 90 USD/Sqm <updated 2016)<br>Management Fee:: 0.6usd/sqm/year<br>Land Period:: NA<br>Note: ]]></description>
+      <styleUrl>#icon-1899-01579B</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value>Nguyen Van Cu Road, Dong Nguyen, Tu Son District, Bac ninh Province.</value>
+        </Data>
+        <Data name="Sale Price">
+          <value><![CDATA[90 USD/Sqm <updated 2016)]]></value>
+        </Data>
+        <Data name="Management Fee:">
+          <value>0.6usd/sqm/year</value>
+        </Data>
+        <Data name="Land Period:">
+          <value>NA</value>
+        </Data>
+        <Data name="Note">
+          <value/>
+        </Data>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://doc-10-2s-mymaps.googleusercontent.com/untrusted/hostedimage/vjmgndfql7vsqphfb25aa3ma0g/8mone7po4gobda9at0vn7dcc54/1600870293750/aibPlGuAU7GUzfvTBBjITnE-nZM02orW/15008587668903116674/5AF2TALqGwnkVKpdB3Li9V4H5OGar6IvBUx6TBfbBgL233ZpuCvcFH1iuHywF9T9O24PSQhc51KbN0yIHA1sqgIanFCencye_d4gNqUps9pS_E8-5rw0bVV3K1kMUepI15d2mHnFXXxVCO8OELH2Am_YcCZG2DwJ_1GJPWo8ftT8v57_IuQrB7S0jnUY4QylocFj7UgOnu3E3V6iZRsRrP8J0Q8OckWlBxcoPFcSOn5mQnlGgAJ6oBKTTNI9m_0QhiRCXxl1zoXwEJwsV437DBhz04f_e8zsEEQ?session=0&fife]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          105.9582372,21.1246246,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Đa giác 13</name>
+      <description><![CDATA[Address: <br>Sale Price: <br>Management Fee:: <br>Land Period:: <br>Note: ]]></description>
+      <styleUrl>#poly-01579B-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Address">
+          <value/>
+        </Data>
+        <Data name="Sale Price">
+          <value/>
+        </Data>
+        <Data name="Management Fee:">
+          <value/>
+        </Data>
+        <Data name="Land Period:">
+          <value/>
+        </Data>
+        <Data name="Note">
+          <value/>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              106.8385838,20.8180057,0
+              106.8300008,20.8242633,0
+              106.8331765,20.8244238,0
+              106.8261384,20.8257073,0
+              106.8275117,20.8210543,0
+              106.8282841,20.8232204,0
+              106.8388413,20.8133525,0
+              106.8385838,20.8180057,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
